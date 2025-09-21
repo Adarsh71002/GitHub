@@ -5,3 +5,4 @@
  1006  git status
  1007  git commit -m "added testing file"
  1008  git status
+ git branch
